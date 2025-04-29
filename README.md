@@ -6,4 +6,4 @@ Coffee is better than tea
 
 Summer is better than winter
 
-Gordon's code update
+Conflict change by michael
