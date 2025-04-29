@@ -5,3 +5,5 @@ Pineapple belongs on pizza
 Coffee is better than tea
 
 Summer is better than winter
+
+Conflict change made by michael
