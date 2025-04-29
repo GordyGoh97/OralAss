@@ -6,4 +6,3 @@ Coffee is better than tea
 
 Summer is better than winter
 
-Changes made by gordon
